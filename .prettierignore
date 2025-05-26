@@ -1,0 +1,17 @@
+# 构建输出
+dist
+build
+.turbo
+
+# 依赖
+node_modules
+
+# 缓存
+.cache
+.next
+
+# 其他
+*.log
+*.lock
+coverage
+.DS_Store 
